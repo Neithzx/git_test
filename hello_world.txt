@@ -1,0 +1,10 @@
+A "program instruction" is a single, specific command or operation that a computer is told to perform within a program, essentially a step in a sequence that tells the computer what to do; it's like a single line of code that defines an action to be executed, like adding numbers, displaying text, or making a decision based on certain conditions. 
+Key points about program instructions:
+Sequence:
+Instructions are typically executed one after another in a defined order, with the program counter keeping track of which instruction is currently being processed. 
+Machine code:
+At the lowest level, instructions are represented as binary codes (0s and 1s) that the computer's processor can directly understand. 
+Assembly language:
+Programmers often write instructions using a more human-readable assembly language, which is then translated into machine code by a compiler. 
+High-level languages:
+Most programmers use high-level languages like Python, Java, or C++, which are then compiled into machine code. 
